@@ -1,0 +1,4 @@
+deb http://gpu:8012/ubuntu/ bionic main restricted universe multiverse
+deb http://gpu:8012/ubuntu/ bionic-updates main restricted universe multiverse
+deb http://gpu:8012/ubuntu/ bionic-backports main restricted universe multiverse
+deb http://gpu:8012/ubuntu/ bionic-security main restricted universe multiverse
